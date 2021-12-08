@@ -1,17 +1,20 @@
-#homehead{
-    color: rgb(0, 66, 248);
+a:link {
+    color: rgb(9, 92, 247);
+    background-color: transparent;
     text-decoration: none;
-}
-#abouthead{
-    color: rgb(0, 66, 248);
+  }
+a:visited {
+    color: rgb(250, 4, 45);
+    background-color: transparent;
     text-decoration: none;
-}
-#careerhead{
-    color: rgb(0, 66, 248);
-    text-decoration: none;
-}
-#contacthead{
-    color: rgb(0, 66, 248);
-    text-decoration: none;
-    
-}
+  }
+  a:hover {
+    color: rgb(63, 209, 245);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
